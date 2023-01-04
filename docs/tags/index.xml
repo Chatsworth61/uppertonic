@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Chatsworth</title>
+    <title>Tags on Uppertonic</title>
     <link>https://chatsworth.cf/tags/</link>
-    <description>Recent content in Tags on Chatsworth</description>
+    <description>Recent content in Tags on Uppertonic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -76,6 +76,51 @@
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://chatsworth.cf/tags/css/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://chatsworth.cf/tags/html/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://chatsworth.cf/tags/markdown/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://chatsworth.cf/tags/themes/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://chatsworth.cf/tags/emoji/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/tags/emoji/</guid>
       <description></description>
     </item>
     
