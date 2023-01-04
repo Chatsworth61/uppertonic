@@ -10,8 +10,8 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
-#copyright               = "(c) Chatsworth 2022"
-publishDir = "docs"
+#copyright               = "(c) Chatsworth 2023"
+publishDir              = "docs"
 
 [markup.goldmark.renderer]
   unsafe                = true
