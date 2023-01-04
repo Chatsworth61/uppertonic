@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Chatsworth</title>
+    <link>https://chatsworth.cf/</link>
+    <description>Recent content in Welcome on Chatsworth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hypnotherapy</title>
+      <link>https://chatsworth.cf/blog/hypnotherapy/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/blog/hypnotherapy/</guid>
+      <description>What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.
+First, you&amp;rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
+After this, the hypnotherapist may:
+ lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state.</description>
+    </item>
+    
+    <item>
+      <title>Stop Smoking!</title>
+      <link>https://chatsworth.cf/blog/stop-smoking/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/blog/stop-smoking/</guid>
+      <description>Quit Smoking Stopping smoking is one of the best things you will ever do for your health.
+When you stop, you give your lungs the chance to repair and you will be able to breathe easier. There are lots of other benefits too – and they start almost immediately.
+It&amp;rsquo;s never too late to quit. Let&amp;rsquo;s do this!</description>
+    </item>
+    
+    <item>
+      <title>Video Links</title>
+      <link>https://chatsworth.cf/blog/rich-content/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://chatsworth.cf/about/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/about/</guid>
+      <description>Anon Hypno - (qual1) (qual2) (qual3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>Cookie Policy</title>
+      <link>https://chatsworth.cf/cookiepolicy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/cookiepolicy/</guid>
+      <description>Cookie Usage Our website uses Cookies to help us provide you with a useful and reliable browsing experience and to help us improve our site. Cookies are small files of letters and numbers that are stored on your device. When someone visits our website, we collect standard internet log information and details of visitor behaviour patterns. We collect this information in a way which does not personally identify anyone.
+Cookies are small text files that are placed on your device to help our website provide a better user experience.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://chatsworth.cf/privacypolicy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/privacypolicy/</guid>
+      <description>This website is operated by Chatsworth and whose registered address is &amp;ldquo;Chatsworth Address&amp;rdquo; (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
+This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://chatsworth.cf/services/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/services/</guid>
+      <description>Weight Loss Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chatsworth.cf/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/contact/</guid>
+      <description>Please send me a message using the form below. </description>
+    </item>
+    
+  </channel>
+</rss>

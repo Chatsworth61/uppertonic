@@ -1,0 +1,37 @@
+[{
+    "title": "Hypnotherapy",
+    "date": "",
+    "description": "Hypnotherapy uses hypnosis to try to treat conditions or change habits",
+    "body": "What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.\nFirst, you\u0026rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.\nAfter this, the hypnotherapist may:\n lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state. Most people feel refreshed and relaxed You\u0026rsquo;re fully in control when under hypnosis and do not have to take on the therapist\u0026rsquo;s suggestions if you do not want to.  If necessary, you can bring yourself out of the hypnotic state.\nHypnosis does not work if you do not want to be hypnotised.\n",
+    "ref": "/blog/hypnotherapy/"
+  },{
+    "title": "Stop Smoking!",
+    "date": "",
+    "description": "It's really bad for you",
+    "body": "Quit Smoking Stopping smoking is one of the best things you will ever do for your health.\nWhen you stop, you give your lungs the chance to repair and you will be able to breathe easier. There are lots of other benefits too – and they start almost immediately.\nIt\u0026rsquo;s never too late to quit. Let\u0026rsquo;s do this!\n",
+    "ref": "/blog/stop-smoking/"
+  },{
+    "title": "Video Links",
+    "date": "",
+    "description": "A short list of Video Content",
+    "body": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.\n YouTube Hugo Video    Twitter Simple tweet link to Merc AMG .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  And there he goes for his final run of the weekend 🙏 @EstebanGtz pic.twitter.com/rbKouKEDzJ\n\u0026mdash; Mercedes-AMG PETRONAS F1 Team (@MercedesAMGF1) June 25, 2022  Vimeo Simple Shortcode  .__h_video { position: relative; padding-bottom: 56.23%; height: 0; overflow: hidden; width: 100%; background: #000; } .__h_video img { width: 100%; height: auto; color: #000; } .__h_video .play { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; cursor: pointer; }  ",
+    "ref": "/blog/rich-content/"
+  },{
+    "title": "About me",
+    "date": "",
+    "description": "Jane Smith - Hypnotherapist",
+    "body": "Hypnotherapy Hypnotherapy uses hypnosis to try to treat conditions or change habits.\nWhat happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.\nFirst, you\u0026rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.\nAfter this, the hypnotherapist may:\nlead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state. Most people feel refreshed and relaxed You\u0026rsquo;re fully in control when under hypnosis and do not have to take on the therapist\u0026rsquo;s suggestions if you do not want to.\nIf necessary, you can bring yourself out of the hypnotic state.\nHypnosis does not work if you do not want to be hypnotised.\n",
+    "ref": "/about/"
+  },{
+    "title": "Services",
+    "date": "",
+    "description": "Jane Smith - Hypnotherapist",
+    "body": "Service 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi. Morbi scelerisque arcu sed felis dignissim, sed sollicitudin lectus consectetur. Donec varius neque a sapien congue, a gravida augue bibendum.\nService 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi. Morbi scelerisque arcu sed felis dignissim, sed sollicitudin lectus consectetur. Donec varius neque a sapien congue, a gravida augue bibendum.\nService 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi. Morbi scelerisque arcu sed felis dignissim, sed sollicitudin lectus consectetur. Donec varius neque a sapien congue, a gravida augue bibendum.\n",
+    "ref": "/services/"
+  },{
+    "title": "Contact",
+    "date": "",
+    "description": "",
+    "body": "",
+    "ref": "/contact/"
+  }]
