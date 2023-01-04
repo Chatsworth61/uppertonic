@@ -6,7 +6,7 @@ date = "2022-06-01"
 layout = "about"
 +++
 
-### Amanda Upperton - Clinical Hypnotherapist
+### Clinical Hypnotherapist
 
 I support people making positive change and I'm passionate about helping others to help themselves.
  
