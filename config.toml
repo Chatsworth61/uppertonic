@@ -69,7 +69,7 @@ enableEmoji             = true
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "img/logo.webp"
+      src                 = "img/About_Page_Me.webp"
       shape               = "circle"
       width               = ""
       alt                 = "Uppertonic"
