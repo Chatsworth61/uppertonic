@@ -7,15 +7,8 @@ date = "2022-06-02"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
-  src = "img/2019/03/pic01.jpg"
+  src = "img/Mountain_Views.webp"
   alt = "Mountain Range Through Clouds"
-  stretch = "horizontal"
-[[images]]
-  src = "img/2019/03/pic02.jpg"
-  alt = "Desert Scene"
-[[images]]
-  src = "img/2019/03/pic03.jpg"
-  alt = "Valley"
   stretch = "horizontal"
 +++
 

@@ -2,13 +2,13 @@
 draft = true
 title = "Video Links"
 description = "A short list of Video Content"
-author = "Chatsworth"
+author = ""
 date = "2022-06-20"
 tags =  ["shortcodes", "Youtube", "Twitter", "Vimeo"]
 categories = ["shortcodes", "Youtube", "Twitter", "Vimeo"]
 [[images]]
   src = "img/main/logo.jpg"
-  alt = "Chatsworth"
+  alt = ""
   stretch = "Vertical"
 +++
 

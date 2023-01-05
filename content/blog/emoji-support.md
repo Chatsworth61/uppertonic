@@ -6,7 +6,7 @@ author = "Hugo Authors"
 date = "2022-06-01"
 tags = ["emoji"]
 [[images]]
-  src = "img/2019/03/pic02.jpg"
+  src = "img/Mountain_Views.webp"
   alt = "Desert Scene"
   stretch = "StretchH"
 +++

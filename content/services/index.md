@@ -10,25 +10,26 @@ layout = "services"
 
 How many times have you become engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
  
-Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we feel is urgent. 
+Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing various activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we feel is urgent. 
  
-Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certainly good for our wellbeing and calming the parasympathetic nervous system, key to focusing on ourselves and exploring possibilities from within.  Deeper levels of hypnotic trance can be experienced during hypnotherapy to further connect with the subconscious mind for working on inner solutions.  This also happens naturally during sleeping - perhaps you recall waking after a good sleep with the answer to a problem that's been on your mind? But hypnosis is not a state of sleep, even though the term comes from the Greek ‘hypnos’ meaning ‘sleep’, rather it is a state of mind in which the subconscious is able to communicate with the conscious mind. 
+Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certainly good for our wellbeing and calming the parasympathetic nervous system, key to focusing on ourselves and exploring possibilities from within.  Deeper levels of hypnotic trance can be experienced during hypnotherapy to further connect with the subconscious mind for working on inner solutions.  A similar effect happens naturally during sleeping - perhaps you recall waking after a good sleep with the answer to a problem that's been on your mind? 
 
 ## HYPNOTHERAPY
  
-We can bring about hypnosis, this natural state of altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective and conscious viewpoint.  A trained professional can help facilitate hypnosis to encourage a person’s desired beneficial change, essentially guided by the person’s own inner beliefs.
+We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guiding them to a more helpful perspective. 
 
-Hypnotherapy is a holistic talking therapy that uses hypnosis in a clinical setting as part of a tailored treatment plan to support a person towards desired beneficial change.  It has already been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.  But the word has been out for a long time, gaining wider acknowledgement through continuing scientific research and testimonials, that using hypnosis draws on the power of the mind for positive effect.      
- 
-Alongside hypnosis, I use other psychotherapeutic techniques to suit my clients, taking into account their feedback on progress. I explain the rationale for each technique in a teaching style to enable clients to practise themselves between and beyond therapy sessions.   
+Hypnotherapy is a holistic talking therapy in a clinical setting as part of a tailored treatment plan to support a person towards desired beneficial change.  It has already been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.  Particularly over the last 20 years, Hypnosis has played a growing role in mind-body interventions, gaining wider acknowledgement through continuing scientific research and testimonials, that using hypnosis draws on the power of the mind for positive effect.      
+
+## WORKING WITH ME
+
+I use a range of talking therapy techniques to suit my clients.  I explain the rationale for each technique in a teaching style to enable clients to practise themselves between and beyond therapy sessions, including self-hypnosis.
 
 Before starting any therapy, it's important to find out if it's right for you and whether you are comfortable working with me.  My online clients can organise their therapy sessions around their schedule, in their own familiar and comfortable space.
  
-The first step is to contact me for a brief and confidential chat about what you are looking to change or achieve.  Please consider taking this short step - just talking about it with me may bring a sense of less distress, less discomfort and potentially lighten the mood and be motivating.  By the end, you will know how comfortable you feel about working with me.
+The first step is to contact me for a brief and confidential chat about what you are looking to change or achieve.  Please consider taking this short step - just talking about it with me may bring a sense of less distress, less discomfort and potentially lighten the mood and be motivating.
+
+I can work with clients to support the following:
  
-
-#### I can work with clients to support the following:
-
 * STRESS and ANXIETY
  
 * FEARS and PHOBIAS
@@ -43,5 +44,35 @@ The first step is to contact me for a brief and confidential chat about what you
  
 * PERSISTENT PAIN
 
- 
 Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact"). so that I can answer any questions you may have.
+
+I’m a sole trader so I work hard and smart to minimise my process costs while delivering a caring and supportive service. I am keen to hear client feedback about my services for considering future improvements.  The whole client experience matters to me, from initial contact to final client comments at the end of working together.
+
+## COSTS AND TIMEFRAMES
+
+I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session.  
+
+***Why not [**request a free call**]({{< ref "/contact" >}} "Contact Me") and discover how this could work for you? On hearing what you wish to achieve, I can guide on how many sessions may be suitable.
+I’m happy to answer your questions and there’s no obligation to proceed.***
+
+  |     | 
+  -----|-----|-----
+  ***Initial confidential chat*** | approximately 20 minutes | **Free**
+  First session, including consultation | approximately 60 - 90 minutes | **£90**
+  Subsequent therapy sessions | each session up to approximately 60 minutes | **£75**
+
+<br>
+
+  |     | 
+  -----|-----|-----
+  Typical costs for the first 3 sessions (£90+£75+£75) | **£240**
+  or, for first session (£90) then second and third purchased together | **£210**
+  or, for first 3 sessions purchased together | **£180**
+
+<center> Other savings may be available in some circumstances. </center>
+
+I ask for payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  It’s important that my clients feel comfortable and at ease to continue with me as their therapist, so should that not be the case then I am amenable to refund purchased future bookings.
+
+My cancellation policy is 24 hours in advance.
+
+When the first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward. 
