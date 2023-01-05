@@ -3,6 +3,7 @@
 
 baseurl                 = "https://uppertonic.co.uk/"
 DefaultContentLanguage  = "en"
+defaultContentLanguageInSubdir = true
 title                   = "Uppertonic"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
@@ -10,8 +11,9 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
-#copyright               = "(c) Chatsworth 2023"
+#copyright               = "(c) Uppertonic 2023"
 publishDir              = "docs"
+enableRobotsTXT         = true
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -21,8 +23,8 @@ publishDir              = "docs"
   extended              = true
   min                   = "0.62.0"
 
-#[outputs]
-#  home                  = ["html", "json", "rss"]
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
   enableCDN             = true
@@ -39,10 +41,11 @@ publishDir              = "docs"
   hideEmptyStats        = false
   toc                   = true
   tocWords              = 400
+  author                = "Anon"
 
   [params.meta]
-    description         = "Chatsworth Hypnotherapy"
-    author              = "Chatsworth"
+    description         = "Uppertonic Hypnotherapy"
+    author              = "Uppertonic"
     favicon             = false
     svg                 = false
     faviconVersion      = "1"
@@ -65,10 +68,10 @@ publishDir              = "docs"
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/logo.webp"
       shape               = "circle"
       width               = ""
-      alt                 = "Chatsworth"
+      alt                 = "Uppertonic"
 
   [params.sidebar]
   #  about               = "... tune-in to your potential ..."
@@ -117,7 +120,7 @@ publishDir              = "docs"
     simple = false
   
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = true
     simple = true
   
@@ -173,7 +176,7 @@ publishDir              = "docs"
   gitlab                = ""
   wordpress             = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
+  linkedin              = ""
   linkedin_company      = ""
   # Social Networks
   facebook              = ""
@@ -182,8 +185,9 @@ publishDir              = "docs"
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
   instagram             = ""
-  twitter               = "example"
+  twitter               = ""
   skype                 = ""
   snapchat              = ""
   # Email
-  email                 = "example"
+  email                 = "Amanda@uppertonic.co.uk"
+

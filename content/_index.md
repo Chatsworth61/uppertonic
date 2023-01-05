@@ -5,7 +5,7 @@ author = ""
 date = ""
 layout = ""
 [[images]]
-  src = "img/2019/03/pic01.jpg"
+  src = "img/Welcome_Page_Top.webp"
   alt = "Mountain Range Through Clouds"
   stretch = "h"
 +++

@@ -3,11 +3,11 @@ draft = false
 date = "2022-06-26"
 title = "Hypnotherapy"
 description = "Hypnotherapy uses hypnosis to try to treat conditions or change habits"
-author = "Anon Hypno"
-tags = ["test tag1","test tag2","Hypnotherapy"]
+author = "Anon"
+tags = ["Hypnotherapy"]
 categories = ["Hypnotherapy"]
 [[images]]
-  src = "img/hypnotherapy-1.jpg"
+  src = "img/hypnotherapy.webp"
   alt = "Hypnotherapy"
   stretch = "v"
 +++
