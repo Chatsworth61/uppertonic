@@ -18,7 +18,7 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
  
 We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guiding them to a more helpful perspective. 
 
-Hypnotherapy is a holistic talking therapy in a clinical setting as part of a tailored treatment plan to support a person towards desired beneficial change.  It has already been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.  Particularly over the last 20 years, Hypnosis has played a growing role in mind-body interventions, gaining wider acknowledgement through continuing scientific research and testimonials, that using hypnosis draws on the power of the mind for positive effect.      
+Hypnotherapy is a holistic talking therapy in a clinical setting as part of a tailored treatment plan to support a person towards desired beneficial change.  It has already been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.  Particularly over the last 20+ years, Hypnotherapy has played a growing role in mind-body interventions, gaining wider acknowledgement through continuing scientific research and testimonials that using hypnosis draws on the power of the mind for positive effect.      
 
 ## WORKING WITH ME
 
@@ -46,8 +46,6 @@ I can work with clients to support the following:
 
 Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact"). so that I can answer any questions you may have.
 
-I’m a sole trader so I work hard and smart to minimise my process costs while delivering a caring and supportive service. I am keen to hear client feedback about my services for considering future improvements.  The whole client experience matters to me, from initial contact to final client comments at the end of working together.
-
 ## COSTS AND TIMEFRAMES
 
 I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session.  
@@ -57,7 +55,7 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
 
   |     | 
   -----|-----|-----
-  ***Initial confidential chat*** | approximately 20 minutes | **Free**
+  **Initial confidential chat** | approximately 20 minutes | **Free**
   First session, including consultation | approximately 60 - 90 minutes | **£90**
   Subsequent therapy sessions | each session up to approximately 60 minutes | **£75**
 
@@ -71,8 +69,6 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
 
 <center> Other savings may be available in some circumstances. </center>
 
-I ask for payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  It’s important that my clients feel comfortable and at ease to continue with me as their therapist, so should that not be the case then I am amenable to refund purchased future bookings.
-
-My cancellation policy is 24 hours in advance.
+I ask for payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  My cancellation policy is 24 hours in advance of a booked and purchased session.
 
 When the first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward. 
