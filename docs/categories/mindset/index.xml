@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Uppertonic</title>
-    <link>https://uppertonic.co.uk/blog/</link>
-    <description>Recent content in Blogs on Uppertonic</description>
+    <title>Mindset on Uppertonic</title>
+    <link>https://uppertonic.co.uk/categories/mindset/</link>
+    <description>Recent content in Mindset on Uppertonic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) Uppertonic Hypnotherapy</copyright>
-    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uppertonic.co.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://uppertonic.co.uk/categories/mindset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Start</title>
       <link>https://uppertonic.co.uk/blog/mindset/</link>

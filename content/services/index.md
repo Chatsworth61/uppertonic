@@ -45,8 +45,10 @@ I can work with clients to support the following:
 * PERSISTENT PAIN
 
 Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact"). so that I can answer any questions you may have.
+<br>
+<br>
 
-## COSTS AND TIMEFRAMES
+## HYPNOTHERAPY SESSION FEES
 
 I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session.  
 
@@ -56,16 +58,19 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   |     | 
   -----|-----|-----
   **Initial confidential chat** | approximately 20 minutes | **Free**
-  First session, including consultation | approximately 60 - 90 minutes | **£90**
-  Subsequent therapy sessions | each session up to approximately 60 minutes | **£75**
+  First session, including consultation | approximately 60 - 90 minutes | **£80**
+  Subsequent therapy sessions | each session up to approximately 60 minutes | **£60**
 
-<br>
 
   |     | 
-  -----|-----|-----
-  Typical costs for the first 3 sessions (£90+£75+£75) | **£240**
-  or, for first session (£90) then second and third purchased together | **£210**
-  or, for first 3 sessions purchased together | **£180**
+  -----|-----
+  Cost for the first 3 sessions (£80+£60+£60) | **£200**
+  or, for first 3 sessions purchased together - saving £20 | **£180**
+ 
+  |     | 
+  -----|-----
+  Cost for the first 5 sessions (£80+£60+£60+£60+£60) | **£320**
+  or, for first 5 sessions purchased together - saving £50 | **£270**
 
 <center> Other savings may be available in some circumstances. </center>
 

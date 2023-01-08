@@ -62,7 +62,7 @@ enableEmoji             = true
 
   [params.intro]
     header                = "Uppertonic Hypnotherapy"
-    paragraph             = "... tune-in to your potential ..."
+    paragraph             = "Tune-in to your potential"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = true
