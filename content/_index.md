@@ -24,7 +24,7 @@ We know ourselves better than anyone else, so it can be unsettling if we seem to
 
 Whatever your concerns or aspirations, I offer you a free, no-obligation and confidential chat to briefly discuss how a hypnotherapy treatment plan could make a difference to you.  As a qualified hypnotherapist, I use a range of talking therapy, coaching and NLP techniques.
 
-Please read [**about me**]({{< ref "/about" >}} "about me") and my [**services**]({{< ref "/services" >}} "services"). &nbsp; Thanks for visiting :smile:
+Please read [**about me**]({{< ref "/about" >}} "about me") and my [**services**]({{< ref "/services" >}} "services"). &nbsp; Thanks for visiting :relaxed:
 
 Best wishes, <br>
 Amanda
