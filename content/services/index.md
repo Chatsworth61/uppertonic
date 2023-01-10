@@ -18,7 +18,7 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
  
 We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guiding them to a more helpful perspective. 
 
-Hypnotherapy is a holistic talking therapy in a clinical setting as part of a tailored treatment plan to support a person towards desired beneficial change.  It has already been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.  Particularly over the last 20+ years, Hypnotherapy has played a growing role in mind-body interventions, gaining wider acknowledgement through continuing scientific research and testimonials that using hypnosis draws on the power of the mind for positive effect.      
+Clinical hypnotherapy is a holistic talking therapy as part of a tailored treatment plan to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.      
 
 ## WORKING WITH ME
 
@@ -74,6 +74,6 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
 
 <center> Other savings may be available in some circumstances. </center>
 
-I ask for payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  My cancellation policy is 24 hours in advance of a booked and purchased session.
+I request payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  My cancellation policy is 24 hours in advance of a booked and purchased session.
 
-When the first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward. 
+When your first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward. 
