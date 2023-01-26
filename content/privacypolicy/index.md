@@ -13,12 +13,12 @@ This privacy policy sets out how Uppertonic Hypnotherapy uses and protects the i
 
 Contact details <br> 
 Name: Amanda Upperton <br>
-E-mail: Amanda@Uppertonic.co.uk <br>
+E-mail: privacy@uppertonic.co.uk <br>
 Website: Uppertonic.co.uk
 
 You can visit this website without revealing any information about yourself. However, there may be occasions where you are asked to provide certain information by which you can be identified when using this website, such as using the contact form. You  can be assured that information you provide will only be used by me in accordance with this privacy statement and I am committed to ensuring that your privacy is protected.
 
-This policy will be updated periodically in line with current legislation. This policy was last updated 08 January 2023.
+This policy will be updated periodically in line with current legislation. This policy was last updated 26 January 2023.
 
 ### Cookies 
 Cookies are small files which ask your permission to be placed on your computer's 
@@ -78,8 +78,13 @@ https://www.zoho.com/gdpr.html
 
 For further reference, please see the Information Commissioners Office website https://ico.org.uk/
 
-Uppertonic Hypnotherapy <br>
-Data Processor: Amanda Upperton <br>
-Email address: Uppertonic@gmail.com <br>
 ICO Registration No. ZB293808
+
+Data Processor: Amanda Upperton, Uppertonic Hypnotherapy <br>
+Email address: privacy@uppertonic.co.uk <br>
+Please email where possible to assist our more timely response turnaround. <br>
+
+Correspondence address for letters: <br>
+Amanda Upperton, Uppertonic Hypnotherapy, Unit 115735, PO Box 7169, Poole, BH15 9EL <br>
+
 
