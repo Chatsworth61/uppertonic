@@ -8,7 +8,7 @@ layout = "services"
 
 ## HYPNOSIS
 
-How many times have you become engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
+How many times have you beeen engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
  
 Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing various activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we feel is urgent. 
  
@@ -16,13 +16,15 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
 
 ## HYPNOTHERAPY
  
-We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guiding them to a more helpful perspective. 
+We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guide them to a more helpful perspective. 
 
-Clinical hypnotherapy is a holistic talking therapy as part of a tailored treatment plan to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.      
+Clinical hypnotherapy is a holistic talking therapy, as part of a tailored treatment plan, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.      
 
 ## WORKING WITH ME
 
-I use a range of talking therapy techniques to suit my clients.  I explain the rationale for each technique in a teaching style to enable clients to practise themselves between and beyond therapy sessions, including self-hypnosis.
+**I mainly work with clients online to deliver therapy sessions, based in Waterlooville and in the Portsmouth area in suitable clinic rooms when face-to-face.**
+
+Using a range of talking therapy techniques to suit my clients, I explain the rationale for each technique in a teaching style so that clients can practise themselves between and beyond therapy sessions, including self-hypnosis.
 
 Before starting any therapy, it's important to find out if it's right for you and whether you are comfortable working with me.  My online clients can organise their therapy sessions around their schedule, in their own familiar and comfortable space.
  
@@ -38,15 +40,15 @@ I can work with clients to support the following:
  
 * SLEEP PROBLEMS
  
-* BOOSTING CONFIDENCE
+* PAIN MANAGEMENT
  
 * MENOPAUSE
  
-* PERSISTENT PAIN
+* BOOSTING CONFIDENCE
 
 Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact"). so that I can answer any questions you may have.
 <br>
-<br>
+  
 
 ## HYPNOTHERAPY SESSION FEES
 
