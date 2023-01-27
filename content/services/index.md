@@ -8,7 +8,7 @@ layout = "services"
 
 ## HYPNOSIS
 
-How many times have you beeen engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
+How many times have you been engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
  
 Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing various activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we feel is urgent. 
  
@@ -22,7 +22,7 @@ Clinical hypnotherapy is a holistic talking therapy, as part of a tailored treat
 
 ## WORKING WITH ME
 
-**I mainly work with clients online to deliver therapy sessions, based in Waterlooville and in the Portsmouth area in suitable clinic rooms when face-to-face.**
+**I mainly provide online therapy sessions for clients via Zoom and find this works well. I’m based in Waterlooville and can arrange to see clients face-to-face at local clinic rooms in the Portsmouth area.**
 
 Using a range of talking therapy techniques to suit my clients, I explain the rationale for each technique in a teaching style so that clients can practise themselves between and beyond therapy sessions, including self-hypnosis.
 
@@ -63,8 +63,7 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   First session, including consultation | approximately 60 - 90 minutes | **£80**
   Subsequent therapy sessions | each session up to approximately 60 minutes | **£60**
 
-
-  |     | 
+   |     | 
   -----|-----
   Cost for the first 3 sessions (£80+£60+£60) | **£200**
   or, for first 3 sessions purchased together - saving £20 | **£180**
