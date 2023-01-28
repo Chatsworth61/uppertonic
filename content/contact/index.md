@@ -6,18 +6,13 @@ emailservice = "https://formspree.io/f/xqkokbzg"
 contactanswertime = 48
 +++
 
- |     | 
-  -----|-----|
-  ***My practice is based on the UK's South Coast<br><br>working with clients online<br><br>and in Waterlooville and the Portsmouth area*** | <br>Amanda Upperton, Uppertonic Hypnotherapy <br><br>Email: amanda@uppertonic.co.uk<br><br>Correspondence address: <br> Unit 115735, PO Box 7169, Poole, BH15 9EL
 
-
- 
-#### Please send me a message using the form below
 |     | 
   -----|-----|
-  ***My practice is based on the UK's South Coast*** | Amanda Upperton, Uppertonic Hypnotherapy
-  ***working with clients online***  | Email: amanda@uppertonic.co.uk
-  ***and in Waterlooville and the Portsmouth area*** | Correspondence address: <br> Unit 115735, PO Box 7169, Poole, BH15 9EL
+  .oOo.  | Amanda Upperton, Uppertonic Hypnotherapy <br>Email: amanda@uppertonic.co.uk<br>Correspondence address: <br> Unit 115735, PO Box 7169, Poole, BH15 9EL
+    ***My practice is based on the UK's South Coast<br>working with clients online<br>and in Waterlooville and the Portsmouth area*** | .oOo.
+
+
 
  
 #### Please send me a message using the form below
