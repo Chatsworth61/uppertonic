@@ -18,7 +18,7 @@ We know ourselves better than anyone else, so it can be unsettling if we seem to
 In any aspect of your life, are you looking for...
 
 LESS of any of these?
-<p style="text-align: center;">Anxiety ~ Discomfort ~ Fearfulness ~ Feeling misunderstood ~ Missing out ~ Overwhelm ~ Procrastination ~ Sadness ~ <br>Stuck in a rut ~ Unhelpful habits ~ Uncomfortable feelings
+<p style="text-align: center;">Anxiety ~ Discomfort ~ Feeling misunderstood ~ Missing out ~ Overwhelm ~ Procrastination ~ <br>Stuck in a rut ~ Unhelpful habits ~ Uncomfortable feelings
 
 or MORE of any of these?
 <p style="text-align: center;">Comfort ~ Confidence ~ Creativity ~ Energy ~ Harmony ~ Joy ~ Motivation ~ Optimism ~ Resilience ~ Self-esteem ~ Sleep

@@ -39,8 +39,6 @@ I can work with clients to support the following:
 * PHOBIAS
  
 * UNHELPFUL HABITS
-
-* SMOKING CESSATION
  
 * SLEEP PROBLEMS
  
