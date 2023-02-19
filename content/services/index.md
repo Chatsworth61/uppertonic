@@ -10,13 +10,13 @@ layout = "services"
 
 How many times have you been engrossed in a good book or film? It's easy to lose track of time if it's really absorbing, isn't it?  That's an example of focused attention.
  
-Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing various activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we feel is urgent. 
+Hypnosis is a completely natural state of focused attention.  We might enter this state several times a day and will have experienced it reading a good book, watching a film, doing various activities, going on a journey and in many other ways.  We can decide how much we want to engage in that experience, or we can come out of it quickly if interrupted by something we sense is urgent. 
  
 Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certainly good for our wellbeing and calming the parasympathetic nervous system, key to focusing on ourselves and exploring possibilities from within.  Deeper levels of hypnotic trance can be experienced during hypnotherapy to further connect with the subconscious mind for working on inner solutions.  A similar effect happens naturally during sleeping - perhaps you recall waking after a good sleep with the answer to a problem that's been on your mind? 
 
 ## HYPNOTHERAPY
  
-We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained professional can facilitate hypnosis to encourage a person’s desired positive change to their thoughts and feelings by suggestion and guide them to a more helpful perspective. 
+We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained hypnotherapist can encourage a person’s desired positive change in thoughts, feelings and behaviours by suggestion during hypnosis, guiding them to a more helpful perspective. 
 
 Clinical hypnotherapy is a holistic talking therapy, as part of a tailored treatment plan, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.
 
@@ -54,7 +54,7 @@ Still thinking about it?  When you are ready, please do contact me  [**here**]({
 
 ## HYPNOTHERAPY SESSION FEES
 
-I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. A suitable free hypnosis mp3 recording is provided to listen to regularly which supports the treatment.  
+I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. To support the treatment, a free hypnosis mp3 recording is provided to listen to regularly.  
 
 ***Why not [**request a free call**]({{< ref "/contact" >}} "Contact Me") and discover how this could work for you? On hearing what you wish to achieve, I can guide on how many sessions may be suitable.
 I’m happy to answer your questions and there’s no obligation to proceed.***
@@ -68,12 +68,12 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
    |     | 
   -----|-----
   Cost for the first 3 sessions (£80+£60+£60) | **£200**
-  or, for first 3 sessions purchased together - saving £20 | **£180**
+  OR, for first 3 sessions purchased together - saving £20 | **£180**
  
   |     | 
   -----|-----
   Cost for the first 5 sessions (£80+£60+£60+£60+£60) | **£320**
-  or, for first 5 sessions purchased together - saving £50 | **£270**
+  OR, for first 5 sessions purchased together - saving £50 | **£270**
 
 <center> Other savings may be available in some circumstances. </center>
 

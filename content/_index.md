@@ -21,7 +21,7 @@ LESS of any of these?
 <p style="text-align: center;">Anxiety ~ Discomfort ~ Feeling misunderstood ~ Missing out ~ Overwhelm ~ Procrastination ~ <br>Stuck in a rut ~ Unhelpful habits ~ Uncomfortable feelings
 
 or MORE of any of these?
-<p style="text-align: center;">Comfort ~ Confidence ~ Creativity ~ Energy ~ Harmony ~ Joy ~ Motivation ~ Optimism ~ Resilience ~ Self-esteem ~ Sleep
+<p style="text-align: center;">Comfort ~ Confidence ~ Creativity ~ Energy ~ Harmony ~ Joy ~ Motivation ~ Optimism ~ <br>Resilience ~ Self-esteem ~ Sleep
 
 
 Whatever your concerns or aspirations, I offer you a free, no-obligation and confidential chat to briefly discuss how a hypnotherapy treatment plan could make a difference to you.  As a qualified hypnotherapist, I use a range of talking therapy, coaching and NLP techniques.
