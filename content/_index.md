@@ -8,7 +8,7 @@ layout = ""
 
 ## <p style="text-align: center;">Hello and welcome to Uppertonic Hypnotherapy
 
-**<center>If you are curious about supporting your wellbeing, then please ***just relax*** and read on…</center>**
+**<center>If you are curious about supporting your wellbeing, please ***just relax*** and read on…</center>**
  
 With so much information out there about wellbeing and the importance of mental health, 
 I invite you to pause right here for a few moments and really focus on what you are looking for, what outcome is important to you?

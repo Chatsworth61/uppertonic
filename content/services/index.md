@@ -24,7 +24,7 @@ Hypnotherapy is a complementary therapy and may be provided alongside profession
 
 ## WORKING WITH ME
 
-**I mainly provide online therapy sessions for clients via Zoom and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at local hired rooms in the Portsmouth area by arrangement.**
+**I mainly provide online therapy sessions for clients and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at suitable local hired venues in the Portsmouth area when available.**
 
 Using a range of talking therapy, coaching and NLP techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise between and beyond therapy sessions, including self-hypnosis.
 
@@ -65,7 +65,7 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   First session, including consultation and a free mp3 | approximately 60 - 90 minutes | **£70**
   Subsequent therapy sessions | each session up to approximately 60 minutes | **£50**
 
-Some issues only require a few sessions while more complex issues may benefit from working through several sessions.
+Some issues only require a few sessions, while more complex issues may benefit from working through several sessions.
 
 Savings can be made by purchasing a bundle of sessions together, depending on offers at the time. Other savings may be available in some circumstances.
 

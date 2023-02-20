@@ -6,7 +6,7 @@ date = "2022-06-01"
 layout = "about"
 +++
 
-<p style="font-size: 24px;font-weight:bold;">Amanda H Upperton, MNCH(Reg.), Clinical Hypnotherapist</p>
+<p style="font-size: 22px;font-weight:bold;">Amanda H Upperton, MNCH(Reg.), Clinical Hypnotherapist</p>
 
 I support people to make positive change and I'm passionate about helping others to help themselves.
 
