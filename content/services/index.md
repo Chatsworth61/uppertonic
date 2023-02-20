@@ -26,7 +26,7 @@ Hypnotherapy is a complementary therapy and may be provided alongside profession
 
 **I mainly provide online therapy sessions for clients via Zoom and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at local hired rooms in the Portsmouth area by arrangement.**
 
-Using a range of talking therapy techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise themselves between and beyond therapy sessions, including self-hypnosis.
+Using a range of talking therapy, coaching and NLP techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise between and beyond therapy sessions, including self-hypnosis.
 
 Before starting any therapy, it's important to find out if it's right for you and whether you are comfortable working with me.  My online clients can organise their therapy sessions around their schedule, in their own familiar and comfortable space.
  
@@ -46,15 +46,15 @@ I can work with clients to support the following:
  
 * BOOSTING CONFIDENCE
 
-Please note that as your therapist, I will work with you to support you, but no guarantee of success is given or implied. It takes your commitment and effort towards achieving desired changes and I will do my best to guide you in a way that is right for you.  
+  
 
-Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact"). so that I can answer any questions you may have.
+Still thinking about it?  When you are ready, please do contact me  [**here**]({{< ref "/contact" >}} "Contact") so that I can answer any questions you may have.
 <br>
   
 
 ## HYPNOTHERAPY SESSION FEES
 
-I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. To support the treatment, a free hypnosis mp3 recording is provided to listen to regularly.  
+I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. To support the treatment, a free hypnosis mp3 recording is provided for regular listening.  
 
 ***Why not [**request a free call**]({{< ref "/contact" >}} "Contact Me") and discover how this could work for you? On hearing what you wish to achieve, I can guide on how many sessions may be suitable.
 I’m happy to answer your questions and there’s no obligation to proceed.***
@@ -62,21 +62,15 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   |     | 
   -----|-----|-----
   **Initial confidential chat** | approximately 20 minutes | **Free**
-  First session, including consultation and a free mp3 | approximately 60 - 90 minutes | **£80**
-  Subsequent therapy sessions | each session up to approximately 60 minutes | **£60**
+  First session, including consultation and a free mp3 | approximately 60 - 90 minutes | **£70**
+  Subsequent therapy sessions | each session up to approximately 60 minutes | **£50**
 
-   |     | 
-  -----|-----
-  Cost for the first 3 sessions (£80+£60+£60) | **£200**
-  OR, for first 3 sessions purchased together - saving £20 | **£180**
- 
-  |     | 
-  -----|-----
-  Cost for the first 5 sessions (£80+£60+£60+£60+£60) | **£320**
-  OR, for first 5 sessions purchased together - saving £50 | **£270**
+Some issues only require a few sessions while more complex issues may benefit from working through several sessions.
 
-<center> Other savings may be available in some circumstances. </center>
+Savings can be made by purchasing a bundle of sessions together, depending on offers at the time. Other savings may be available in some circumstances.
 
-I request payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  My cancellation policy is 24 hours in advance of a booked and purchased session, so I can reschedule the session or refund your payment if you let me know at least 24 hours in advance, otherwise the session fee will not be refunded.
+I request payment in advance to confirm each session booking, or in advance of the first session of a bundle of sessions purchased together.  My cancellation policy is 24 hours in advance of a booked and purchased session in order to receive a full payment refund with no cancellation charge. Otherwise the full session fee will be charged. If you want to reschedule, please let me have at least 24 hours notice.
 
-When your first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward. 
+When your first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward.
+
+Please note that as your therapist, I will work with you to support you, but no guarantee of success is given or implied. It takes your commitment and effort towards achieving desired changes and I will do my best to guide you in a way that is right for you.

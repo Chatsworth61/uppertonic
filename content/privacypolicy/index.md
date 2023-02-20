@@ -12,7 +12,7 @@ layout = "standard"
 This privacy policy sets out how Uppertonic Hypnotherapy uses and protects the information you provide when accessing my website. I intend to ensure any data you provide is kept secure, managed respectfully and only used for the purposes for which it has been provided.
 
 Contact details <br> 
-Name: Amanda Upperton <br>
+Name: Amanda H Upperton <br>
 E-mail: privacy@uppertonic.co.uk <br>
 Website: Uppertonic.co.uk
 
@@ -55,6 +55,7 @@ I use this information to make contact with you, provide you with information yo
 * Should you wish to book a therapeutic session appointment, I shall supply a copy of my Client Privacy Policy which is in line with industry regulations including insurance purposes and my tax responsibilities. It explains how your data will be collected, used and retained as a client of Uppertonic Hypnotherapy. 
 * If you do not wish to make an appointment, your email and your contact information will be securely deleted/destroyed after one year.
 * If you sign up for my regular emailing list, I will retain your information until you unsubscribe from this service.
+* Records of any correspondence from you by email or letter may be retained.
 * I may also use this information so that I may improve my services.
 
 
@@ -80,7 +81,7 @@ For further reference, please see the Information Commissioners Office website h
 
 ICO Registration No. ZB293808
 
-Data Processor: Amanda Upperton, Uppertonic Hypnotherapy <br>
+Data Processor: Amanda H Upperton, Uppertonic Hypnotherapy <br>
 Email address: privacy@uppertonic.co.uk <br>
 Please email where possible to assist our more timely response turnaround. <br>
 
