@@ -18,7 +18,7 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
  
 We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained hypnotherapist can encourage a person’s desired positive change in thoughts, feelings and behaviours by suggestion during hypnosis, guiding them to a more helpful perspective. 
 
-Clinical hypnotherapy is a holistic talking therapy, as part of a tailored treatment plan, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.
+Clinical hypnotherapy is a holistic talking therapy, tailored to the individual, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.
 
 Hypnotherapy is a complementary therapy and may be provided alongside professional healthcare, but is not a substitute for essential healthcare. 
 
@@ -26,7 +26,7 @@ Hypnotherapy is a complementary therapy and may be provided alongside profession
 
 **I mainly provide online therapy sessions for clients and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at suitable local hired venues in the Portsmouth area when available.**
 
-Using a range of talking therapy, coaching and NLP techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise between and beyond therapy sessions, including self-hypnosis.
+Using a range of talking therapy, coaching and NLP techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise between and beyond therapy sessions, including self-hypnosis. 
 
 Before starting any therapy, it's important to find out if it's right for you and whether you are comfortable working with me.  My online clients can organise their therapy sessions around their schedule, in their own familiar and comfortable space.
  
@@ -54,7 +54,7 @@ Still thinking about it?  When you are ready, please do contact me  [**here**]({
 
 ## HYPNOTHERAPY SESSION FEES
 
-I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. To support the treatment, a free hypnosis mp3 recording is provided for regular listening.  
+I provide a tailored hypnotherapy service to each client.  By listening and asking some questions to understand the situation and what change or improvement is wanted, a therapeutic plan is developed from the first session. 
 
 ***Why not [**request a free call**]({{< ref "/contact" >}} "Contact Me") and discover how this could work for you? On hearing what you wish to achieve, I can guide on how many sessions may be suitable.
 I’m happy to answer your questions and there’s no obligation to proceed.***
@@ -62,7 +62,7 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   |     | 
   -----|-----|-----
   **Initial confidential chat** | approximately 20 minutes | **Free**
-  First session, including consultation and a free mp3 | approximately 60 - 90 minutes | **£70**
+  First session, including consultation | approximately 60 - 90 minutes | **£70**
   Subsequent therapy sessions | each session up to approximately 60 minutes | **£50**
 
 Some issues only require a few sessions, while more complex issues may benefit from working through several sessions.
@@ -73,4 +73,4 @@ I request payment in advance to confirm each session booking, or in advance of t
 
 When your first session is booked and confirmed, look forward to your ‘me time’ in a private and supportive environment. I’ll look forward to working with you towards your aspirations - whether that’s easing anxiety and discomfort or improving confidence to move forward.
 
-Please note that as your therapist, I will work with you to support you, but no guarantee of success is given or implied. It takes your commitment and effort towards achieving desired changes and I will do my best to guide you in a way that is right for you.
+
