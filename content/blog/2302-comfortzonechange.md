@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = "2023-02-04"
-title = "Adapt your comfort zone"
-description = "Make a habit of stepping outside your comfort zone"
+title = "Adapting your comfort zone"
+description = "Making a habit of stepping outside your comfort zone"
 author = "Amanda Upperton"
 tags = ["Mindset"]
 categories = ["Mindset"]
