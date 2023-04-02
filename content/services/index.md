@@ -16,7 +16,7 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
 
 ## HYPNOTHERAPY
  
-We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained hypnotherapist can encourage a person’s desired positive change in thoughts, feelings and behaviours by suggestion during hypnosis, guiding them to a more helpful perspective. 
+We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained hypnotherapist can encourage a person’s desired positive change in thoughts, feelings and behaviours by suggestion during hypnosis, so guiding them to a more helpful perspective. 
 
 Clinical hypnotherapy is a holistic talking therapy, tailored to the individual, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.
 
@@ -24,13 +24,13 @@ Hypnotherapy is a complementary therapy and may be provided alongside profession
 
 ## WORKING WITH ME
 
-**I mainly provide online therapy sessions for clients and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at suitable local hired venues in the Portsmouth area when available.**
+**I mainly provide online therapy sessions and find this works well. I’m based in Waterlooville, Hampshire and can arrange to see clients face-to-face at suitable local hired venues in the Portsmouth area when available.**
 
 Using a range of talking therapy, coaching and NLP techniques to suit my clients, I explain the techniques in a teaching style so that clients can practise between and beyond therapy sessions, including self-hypnosis. 
 
 Before starting any therapy, it's important to find out if it's right for you and whether you are comfortable working with me.  My online clients can organise their therapy sessions around their schedule, in their own familiar and comfortable space.
  
-The first step is to contact me for a brief and confidential chat about what you are looking to change or achieve.  Please consider taking this short step - just talking about it with me may bring a sense of less distress, less discomfort and potentially lighten the mood and be motivating.
+The first step is to contact me for a brief and confidential chat about what you are looking to change or achieve.  Please consider taking this short step - just talking about it with me may bring a sense of calm and potentially lighten the mood and be motivating.
 
 I can work with clients to support the following:
  
@@ -62,8 +62,8 @@ I’m happy to answer your questions and there’s no obligation to proceed.***
   |     | 
   -----|-----|-----
   **Initial confidential chat** | approximately 20 minutes | **Free**
-  First session, including consultation | approximately 60 - 90 minutes | **£70**
-  Subsequent therapy sessions | each session up to approximately 60 minutes | **£50**
+  First session, including consultation | approximately 60 - 90 minutes | **£80**
+  Subsequent therapy sessions | each session up to approximately 60 minutes | **£60**
 
 Some issues only require a few sessions, while more complex issues may benefit from working through several sessions.
 
