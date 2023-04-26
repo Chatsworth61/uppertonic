@@ -18,6 +18,8 @@ Website: Uppertonic.co.uk
 
 You can visit this website without revealing any information about yourself. However, there may be occasions where you are asked to provide certain information by which you can be identified when using this website, such as using the contact form. You  can be assured that information you provide will only be used by me in accordance with this privacy statement and I am committed to ensuring that your privacy is protected.
 
+By continuing to use this website, and if you choose to make contact with me, you are accepting this privacy policy.
+
 This policy will be updated periodically in line with current legislation. This policy was last updated 25 April 2023.
 
 ### Cookies 
