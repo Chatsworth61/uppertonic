@@ -16,11 +16,11 @@ Many people who have undertaken hypnosis say it's relaxing.  Relaxation is certa
 
 ## HYPNOTHERAPY
  
-We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, however, without some guidance, this can be limited by our personal subjective conscious viewpoint.  A trained hypnotherapist can encourage a person’s desired positive change in thoughts, feelings and behaviours by suggestion during hypnosis, so guiding them to a more helpful perspective. 
+We can bring about hypnosis, this natural altered state of awareness, by ourselves.  Much can be achieved through self-hypnosis, but without some guidance, this can be limited by our personal subjective conscious viewpoint.  A qualified clinical hypnotherapist will start with a consultation session and listen carefully to what's concerning their client and/or what they wish to change and achieve. Through hypnosis, the person is guided towards a more helpful perspective, encouraging their desired positive change in thoughts, feelings and behaviours.  We are all different, so the hypnotherapy is tailored to the person and takes into account any feedback from them.
 
-Clinical hypnotherapy is a holistic talking therapy, tailored to the individual, to support a person towards their desired beneficial change.  Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  Hypnotherapy has been recognised by the National Institute for Health and Care Excellence (NICE) as effective in the management for Irritable Bowel Syndrome (IBS).  Currently, the NHS offer very limited access to hypnotherapy services.
+Particularly over the last 20+ years, hypnotherapy has played a growing role in mind-body interventions. Through continuing scientific research and testimonials, there is increasing wider acknowledgement that using hypnosis draws on the power of the mind for positive effect.  
 
-Hypnotherapy is a complementary therapy and may be provided alongside professional healthcare, but is not a substitute for essential healthcare. 
+Hypnotherapy is a complementary therapy and may be provided alongside professional healthcare but is not a substitute for essential healthcare. 
 
 ## WORKING WITH ME
 
